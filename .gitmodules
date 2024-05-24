@@ -1,0 +1,3 @@
+[submodule "submodules/screen_capture"]
+	path = submodules/screen_capture
+	url = git@github.com:Koroffin/python-screen-capture.git
